@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: inyaro-com.mail.protection.outlook.com
-max_age: 7200
+max_age: 84600
