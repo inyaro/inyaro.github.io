@@ -1,1 +1,1 @@
-include: [".well-known", ".media"]
+include: [".well-known, .media"]
